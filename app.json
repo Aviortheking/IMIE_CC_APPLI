@@ -1,0 +1,17 @@
+{
+  "name": "IMIE_CC_APPLI",
+  "displayName": "IMIE_CC_APPLI",
+  "expo": {
+    "name": "IMIE_CC_APPLI",
+    "slug": "IMIE_CC_APPLI",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
